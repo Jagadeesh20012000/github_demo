@@ -1,0 +1,5 @@
+its an demo training
+today date is 13/12/2023
+today we have covered commit and push operation & revert operation
+
+main manu they have VES or Git option,in that option you can choosh push and commit option

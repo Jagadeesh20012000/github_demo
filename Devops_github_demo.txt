@@ -2,4 +2,4 @@ its an demo training
 today date is 13/12/2023
 today we have covered commit and push operation & revert operation
 first you need to create a file,so choose your project name after that right click on your project name and then there having new option
-main manu they have VES or Git option,in that option you can choosh push and commit optioniuuuu
+main manu they have VES or Git option,in that option you can choosh push and commit option

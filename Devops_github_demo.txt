@@ -6,3 +6,9 @@ main manu they have VES or Git option,in that option you can choosh push and com
 
 day 3
 today 14/12/23
+tap the git option and choosh clone optionthey show another window after that choosh git hub
+and choose clone project file there and select then open new window
+and change what u to change in code after that you commit and push it the file
+then open github online there will be you can see the changes
+and then you choose the changed file then you choose contribute option thn open pull request
+then create pull request,after that project admin will need to approve that so only the file will be update in admin project file
